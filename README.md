@@ -47,6 +47,7 @@ Relevant blog posts:
 12. [Detect Button Clicks on Your Site using Segment and SMS](https://www.twilio.com/blog/detect-site-button-clicks-segment-sms)
 13. [Build a Serverless ChatGPT SMS Chatbot with the OpenAI API](https://www.twilio.com/blog/sms-chatbot-openai-api-node)
 14. [Build a ChatGPT-like SMS Chatbot with OpenAI and Python](https://www.twilio.com/blog/sms-chatbot-openai-python)
+
 15. [Generate Art with DALL·E 2 and Twilio Serverless via SMS](https://www.twilio.com/blog/generate-art-with-dall-e-2-and-serverless-sms)
 16. [How to Fine-Tune an OpenAI ML Model with Node.js](https://www.twilio.com/blog/finetune-openai-ml-model-node)
 17. [Build a Question-Answering over Docs SMS Bot with LangChain in Python](https://www.twilio.com/blog/qa-over-docs-bot-langchain-python)
