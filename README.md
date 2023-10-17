@@ -31,6 +31,7 @@ Content for Developer Day, CDP Week, October '23!
 
 ## My AI App Development and Data Journey
 [Lizzie Siegle](https://www.linkedin.com/in/elsiegle/)
+
 Relevant blog posts: 
 1. [10 Things You Need to Know Before Getting Started with TensorFlow](https://www.twilio.com/blog/10-things-you-need-to-know-before-getting-started-with-tensorflow)
 2. [Detect Toxic Language with Twilio Chat and Tensorflow.js](https://www.twilio.com/blog/detect-toxic-language-in-twilio-chat-with-tensorflow-js)
