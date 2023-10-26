@@ -21,6 +21,10 @@ Content for Developer Day, CDP Week, October '23!
 
 ## Product Newsletter
 [Carey Jordan](https://www.linkedin.com/in/careyjordan/)
+Phone number for the subscription form (Only valid for October 26!!!):
++1 707 873 7252
+
+Send a text message to this number with your email address as the message body to get started!
 
 ---
 
@@ -60,6 +64,7 @@ Relevant blog posts:
 ## Putting it all together
 [Dominik Kundel](https://www.linkedin.com/in/dkundel/)
 
+Twilio's "AI Nutrition Facts" application [labeling initiative](https://nutrition-facts.ai/)
 ---
 
 ## The Big Reveal
