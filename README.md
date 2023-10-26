@@ -15,7 +15,7 @@ Content for Developer Day, CDP Week, October '23!
 ## Meet Wilco - Learn how to use Segment in a fun and interactive way
 [Shem Magnezi](https://www.linkedin.com/in/shem-magnezi/)
 
-- [Wilco LP]()
+- [Wilco Quest](https://app.wilco.gg/company/Twilio/Segment/play)
 
 ---
 
