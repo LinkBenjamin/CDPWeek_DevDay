@@ -33,7 +33,7 @@ Send a text message to this number with your email address as the message body t
 ## Sure, the machines are learning, but what about us humans?
 [Craig Dennis](https://www.linkedin.com/in/craigsdennis/)
 
-[Live Code](./llm-exploration/)
+* 👨‍💻 [Live Code](./llm-exploration/)
 ---
 
 ## My AI App Development and Data Journey
