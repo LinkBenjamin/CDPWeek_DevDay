@@ -66,7 +66,7 @@ Relevant blog posts:
 ## Putting it all together
 [Dominik Kundel](https://www.linkedin.com/in/dkundel/)
 
-Twilio's "AI Nutrition Facts" application [labeling initiative](https://nutrition-facts.ai/)
+- Twilio's "AI Nutrition Facts" application [labeling initiative](https://nutrition-facts.ai/)
 ---
 
 ## The Big Reveal
