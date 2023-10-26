@@ -21,7 +21,9 @@ Content for Developer Day, CDP Week, October '23!
 
 ## Product Newsletter
 [Carey Jordan](https://www.linkedin.com/in/careyjordan/)
+
 Phone number for the subscription form (Only valid for October 26!!!):
+
 +1 707 873 7252
 
 Send a text message to this number with your email address as the message body to get started!
